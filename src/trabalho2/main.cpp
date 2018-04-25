@@ -33,14 +33,20 @@ int main() {
     cp1.extrato();
 
 
+    cc1.deposita(2000);
     cp2.deposita(2000);
 
     cout << " " << endl;
     cout << " " << endl;
 
     cp2.extrato();
+    cp2.aplicaJurosDiarios(100));
 
-    cp2.aplicaJurosDiarios(23);
+    cout << " " << endl;
+    cout << " " << endl;
+
+    cc1.extrato();
+    cc1.aplicaJurosDiarios();
 
     cout << " " << endl;
     cout << " " << endl;
