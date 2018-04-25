@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/levys/CLionProjects/trabalho1/caminhao.h
+veiculo.h
+C:/Users/levys/CLionProjects/trabalho1/veiculo.h
+
+C:/Users/levys/CLionProjects/trabalho1/caminhonete.h
+carro.h
+C:/Users/levys/CLionProjects/trabalho1/carro.h
+caminhao.h
+C:/Users/levys/CLionProjects/trabalho1/caminhao.h
+
+C:/Users/levys/CLionProjects/trabalho1/carro.h
+veiculo.h
+C:/Users/levys/CLionProjects/trabalho1/veiculo.h
+string
+-
+
+C:/Users/levys/CLionProjects/trabalho1/main.cpp
+iostream
+-
+veiculo.h
+C:/Users/levys/CLionProjects/trabalho1/veiculo.h
+carro.h
+C:/Users/levys/CLionProjects/trabalho1/carro.h
+caminhao.h
+C:/Users/levys/CLionProjects/trabalho1/caminhao.h
+caminhonete.h
+C:/Users/levys/CLionProjects/trabalho1/caminhonete.h
+
+C:/Users/levys/CLionProjects/trabalho1/veiculo.h
+string
+-
+iostream
+-
+
