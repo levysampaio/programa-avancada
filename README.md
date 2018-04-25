@@ -1,2 +1,2 @@
-# Disciplina Programação Avançada
+# Disciplina: Programação Avançada
 # Aluno: Levy Sampaio
