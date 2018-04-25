@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/levys/CLionProjects/trabalho3/main.cpp
+iostream
+-
+pilha.h
+C:/Users/levys/CLionProjects/trabalho3/pilha.h
+ponto.h
+C:/Users/levys/CLionProjects/trabalho3/ponto.h
+
+C:/Users/levys/CLionProjects/trabalho3/pilha.h
+string
+-
+iostream
+-
+
+C:/Users/levys/CLionProjects/trabalho3/ponto.h
+iostream
+-
+string
+-
+
