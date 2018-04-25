@@ -22,6 +22,7 @@ public:
         free(_pilha);
     };
 
+
     Pilha(int tamanho): _tamanho(tamanho){
 
         _pilha = (string*) malloc(tamanho*sizeof(string));
